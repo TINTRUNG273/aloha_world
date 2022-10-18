@@ -13,3 +13,5 @@
 ## Brtest
 #########
 NGUYEN TRUNG TIN
+
+サーバ上で編集したよ
